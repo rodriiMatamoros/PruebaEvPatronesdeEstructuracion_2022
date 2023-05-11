@@ -7,6 +7,8 @@ import org.example.Factorias.LinkFactoryImpl;
 import org.example.Objetos.Componente;
 import org.example.Objetos.Directorio;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main() {
         // Crea las factorías

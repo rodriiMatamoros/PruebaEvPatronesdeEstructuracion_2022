@@ -4,16 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="358e45f0-1e54-4b55-82dd-a9e0efd24dd3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="358e45f0-1e54-4b55-82dd-a9e0efd24dd3" name="Changes" comment="Commit Link.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LinkFactoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Pegl87J1dqAn73KASOHxrOckLw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,6 +39,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -38,7 +54,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683823111539</updated>
+      <workItem from="1683823112967" duration="2525000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Componente">
+      <created>1683824804934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683824804934</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit Directorio">
+      <created>1683824820763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683824820763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit Directorio y FicheroFactory">
+      <created>1683825020407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683825020407</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit Fichero">
+      <created>1683825165510</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683825165510</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit FicheroFactoryImpl">
+      <created>1683825266031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683825266031</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit Link.java">
+      <created>1683825485422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683825485422</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Componente" />
+    <MESSAGE value="Commit Directorio" />
+    <MESSAGE value="Commit Directorio y FicheroFactory" />
+    <MESSAGE value="Commit Fichero" />
+    <MESSAGE value="Commit FicheroFactoryImpl" />
+    <MESSAGE value="Commit Link.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Link.java" />
   </component>
 </project>

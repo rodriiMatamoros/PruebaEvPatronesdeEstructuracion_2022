@@ -1,4 +1,11 @@
-package org.example;
+package org.example.Cliente;
+
+import org.example.Factorias.DirectorioFactoryImpl;
+import org.example.Factorias.FicheroFactory;
+import org.example.Factorias.FicheroFactoryImpl;
+import org.example.Factorias.LinkFactoryImpl;
+import org.example.Objetos.Componente;
+import org.example.Objetos.Directorio;
 
 public class Main {
     public static void main() {

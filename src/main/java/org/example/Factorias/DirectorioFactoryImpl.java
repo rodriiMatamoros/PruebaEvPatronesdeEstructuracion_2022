@@ -1,4 +1,7 @@
-package org.example;
+package org.example.Factorias;
+
+import org.example.Objetos.Componente;
+import org.example.Objetos.Directorio;
 
 public class DirectorioFactoryImpl implements FicheroFactory {
     @Override

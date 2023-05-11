@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Objetos;
 
 public class Fichero implements Componente {
     private String nombre;

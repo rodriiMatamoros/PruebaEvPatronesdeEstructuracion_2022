@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Objetos;
 
 public class Link implements Componente {
     private String nombre;
